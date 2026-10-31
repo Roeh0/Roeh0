@@ -1,6 +1,6 @@
 ## Hi, I'm Damian👋
 
-`Cybersecurity` | `Networking` | `Kraków`
+`Cybersecurity` | `Cloud` | `Networking` | `Kraków`
 
 ### 👨‍💻 O mnie
 
