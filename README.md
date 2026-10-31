@@ -15,7 +15,7 @@ Jestem absolwentem Informatyki Technicznej na Politechnice Wrocławskiej. Mam so
 
 Rozwijam wiedzę teoretyczną i praktyczną poprzez:
 
-1. 🟩 **TryHackMe:** `Pre-Security` & `Cyber Security 101` & `SOC Level 1` *(podstawy pracy w SOC, analiza logów, ruchu sieciowego i narzędzi bezpieczeństwa)*
-2. 🔵 **Cisco CCNA (200-301):** fundamenty sieci komputerowych
-3. 🟡 **Google Cybersecurity Certificate**
-4. 🔴 **CompTIA Security+**
+🟩 **TryHackMe:** `Pre-Security` & `Cyber Security 101` & `SOC Level 1` *(podstawy pracy w SOC, analiza logów, ruchu sieciowego i narzędzi bezpieczeństwa)*
+🔵 **Cisco CCNA (200-301):** fundamenty sieci komputerowych
+🟡 **Google Cybersecurity Certificate**
+🔴 **CompTIA Security+**
